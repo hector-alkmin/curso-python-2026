@@ -1,0 +1,11 @@
+nome = "Hector"  # String (str)
+idade = 25  # integer (int)
+estado = "Sao Paulo"  # String (str)
+tem_cachorro = True  # Boolean (bool)
+altura = 1.85  # Float (float)
+
+print(type(nome))
+print(type(idade))
+print(type(estado))
+print(type(tem_cachorro))
+print(type(altura))
